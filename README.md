@@ -1,2 +1,9 @@
-# YL.001.SuppliersOption
-Stock M.StockManagement.SuppliersOption
+
+
+Бранч содержит <ul>
+<li>Дизайн</li> 
+<li>Функциональное описание окна</li> </ul>
+
+для редактирования Поставщика Товара в разрезе Складов.
+
+<i>В рамках редактирования полей SKU Data</i>
